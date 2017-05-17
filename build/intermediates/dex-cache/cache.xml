@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tahasefiani/AndroidStudioProjects/MaquetteEshoe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7f0bf6b8b2189729bb7c26e1acb8dc2cdaa4feb">
+        <dex dex="/Users/tahasefiani/AndroidStudioProjects/MaquetteEshoe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f844b4e0b7eec949b8ff2ed08342db8df0b536e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tahasefiani/AndroidStudioProjects/MaquetteEshoe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/tahasefiani/AndroidStudioProjects/MaquetteEshoe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bdf7ac7e5c5d95c397ef9df7aa92eba0ee9dcc4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tahasefiani/.android/build-cache/481c8810ab95da8487750c7d9ce39b1721c327b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/tahasefiani/AndroidStudioProjects/MaquetteEshoe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_517f46f7c7db47776a52f5bf8fc0f0c348e326ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tahasefiani/.android/build-cache/6596a5cfc311e1f5bae70152c2f8b5e3734c5956/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/tahasefiani/AndroidStudioProjects/MaquetteEshoe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b2417368a7553b51b548bb8db1c3e600c8dc762/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tahasefiani/.android/build-cache/755fdec83870d85b540f301db6b51034adda4399/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/tahasefiani/AndroidStudioProjects/MaquetteEshoe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a88cf1a85d753cc3d105d5d00e3cb08e8c5f028d/classes.dex" />
+    </item>
+
+</items>

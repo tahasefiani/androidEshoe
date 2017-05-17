@@ -1,0 +1,7 @@
+#Wed May 17 14:23:33 CEST 2017
+base.0=/Users/tahasefiani/AndroidStudioProjects/MaquetteEshoe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bdf7ac7e5c5d95c397ef9df7aa92eba0ee9dcc4b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/tahasefiani/AndroidStudioProjects/MaquetteEshoe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f844b4e0b7eec949b8ff2ed08342db8df0b536e7/classes.dex
+base.1=/Users/tahasefiani/AndroidStudioProjects/MaquetteEshoe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f844b4e0b7eec949b8ff2ed08342db8df0b536e7
+file.0=/Users/tahasefiani/AndroidStudioProjects/MaquetteEshoe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bdf7ac7e5c5d95c397ef9df7aa92eba0ee9dcc4b/classes.dex
